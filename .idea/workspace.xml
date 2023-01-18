@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4bd9bc0f-de2f-432d-873f-d041be41b162" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2IitveGwHXj7XTeSsQWpJ1lrqC9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/pug/pages" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Francisco\Proyectos\Websites\Template Engine\src\pug\pages" />
+      <recent name="C:\Users\Francisco\Proyectos\Websites\Template Engine\src\pug\pages\Pagina2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Francisco\Proyectos\Websites\Template Engine\src\pug\includes\pagina2\" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4bd9bc0f-de2f-432d-873f-d041be41b162" name="Default Changelist" comment="" />
+      <created>1670676465463</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670676465463</updated>
+      <workItem from="1670676467787" duration="749000" />
+      <workItem from="1670677234331" duration="232000" />
+      <workItem from="1670677480538" duration="543000" />
+      <workItem from="1670678042684" duration="97000" />
+      <workItem from="1670678154565" duration="5122000" />
+      <workItem from="1670683490433" duration="141000" />
+      <workItem from="1670683648868" duration="4700000" />
+      <workItem from="1671278182251" duration="636000" />
+      <workItem from="1671279787550" duration="263000" />
+      <workItem from="1671280073513" duration="946000" />
+      <workItem from="1671281082084" duration="5079000" />
+      <workItem from="1673093632064" duration="622000" />
+      <workItem from="1673098993846" duration="381000" />
+      <workItem from="1673099393942" duration="1586000" />
+      <workItem from="1673101578668" duration="30452000" />
+      <workItem from="1673447624232" duration="2051000" />
+      <workItem from="1673474909690" duration="53819000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
