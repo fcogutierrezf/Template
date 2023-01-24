@@ -5,48 +5,60 @@
 <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
 <link rel="stylesheet" as="font" href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&family=Material+Icons&display=swap" id="js-google-fonts"/>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
 <title>Template Engine</title>
 <link rel="stylesheet" href="assets/css/style.css">
 <script type="text/javascript" src="assets/js/jquery.js"></script>
 <script type="text/javascript" src="assets/js/slides.js"></script>
 <script type="text/javascript" src="assets/js/plugins.js"></script>
 <script type="text/javascript" src="assets/js/global.js" defer></script>
-<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
-<link href="assets/css/slides-customized.min.css?p=K3pa7jkW&rnd=385943" rel="stylesheet" type="text/css" id="js-slides-css">
-<style type="text/css" id="js-slides-fonts">.slides,.slides p {font-family: "Lato", -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;font-weight: 400;}  .slides h1,.slides h2,.slides h3,.slides h4,.slides h5,.slides h6 {font-family: "Lato", -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;font-weight: 900;}  .slides .button,.slides .slides-form {font-family: "Lato", -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;font-weight: 700;}</style>
-<link href="assets/css/custom_E6qHKNRU.css?p=K3pa7jkW" rel="stylesheet" type="text/css">
-<style>h1,.h1{letter-spacing: -0.012em;}h1.smaller{letter-spacing: -0.012em;}p, .p{letter-spacing: 0.011em;}  p.large{letter-spacing: 0.019em;}  p.small{letter-spacing: 0.019em;}  p.smaller{letter-spacing: 0.012em;}  .uppercase {letter-spacing: 1.35px!important;}  .button{font-size:18px; line-height:24px; letter-spacing: 0.025em !important;}  .white, .panel.white, .slides, .slide.whiteSlide{background:#FBFBFB !important;}  .slides, .slide{color:#FBFBFB;fill:#FBFBFB; /* For SVG */ }</style>
-<link rel="preload" href="assets/svg/icon-set.svg?p=K3pa7jkW" as="image" type="image/svg+xml" crossorigin>
 </head>
-<body class="slides scroll animated noPreload"><nav class="panel top padding-top-2 padding-bottom-2" data-name="navigation">
+<body class="scroll"><nav class="panel top white">
 <div class="fix-12-12">
 <div class="sections desktop">
 <div class="left">
 <a href="#" title="Slides Framework">
-<svg class="noFill middle" style="width:30px;height:30px" fill="#FBFBFB"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#logo"  href="assets/svg/icon-set.svg?p=K3pa7jkW#logo"></use></svg></a>
-<p class="app-logo crop margin-left-1 inlineBlock middle bold" style="width:100px">App Name</p>
+<svg style="width:82px;height:24px"><use href="../../../assets/svg/icon-set.svg?p=K3pa7jkW#logo"></use></svg>
+<p>App Name</p>
+</a>
 </div>
 <div class="center">
-<ul class="menu flex uppercase font-size-14 bold app-panel-top-links">
+<ul class="menu font-size-30 uppercase" >
 <li><a href="#">Features</a></li>
 <li><a href="#">Reviews</a></li>
 <li><a href="#">Blog</a></li>
 <li><a href="#">Support</a></li>
 </ul>
 </div>
-<div class="right">
-<a class="bold uppercase font-size-14" href="#">Get an account</a>
-</div>
+<div class="right"><a class="rounded small uppercase" href="#">Get an Account</a></div>
 </div>
 </div>
 <div class="sections compact hidden">
-<div class="left"><a href="#" title="Slides Framework"><svg style="width:82px;height:24px"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#logo"></use></svg></a></div>
-<div class="right"><span class="button actionButton sidebarTrigger" data-sidebar-id="1"><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="../../assets/svg/icon-set.svg?p=K3pa7jkW#menu" href="../../assets/svg/icon-set.svg?p=K3pa7jkW#menu"></use></svg></span></div>
+<div class="left">
+<a href="#" title="Slides Framework">
+<svg style="width:82px;height:24px"><use href="../../../assets/svg/icon-set.svg?p=K3pa7jkW#logo"></use></svg>
+<p>App Name</p>
+<!--<svg style="width:82px;height:24px"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://localhost:7884/framework/panels/4/#logo"></use></svg>-->
+</a>
 </div>
-</nav><nav class="sidebar" data-sidebar-id="1">
-<div class="close"><svg><use href="assets/svg/icons.svg#close"></use></svg></div>
+<div class="right">
+<span class="button actionButton sidebarTrigger" data-sidebar-id="default">
+<i class="material-icons">menu</i>
+<!--<svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://localhost:7884/framework/panels/4/#menu"></use></svg>-->
+</span>
+</div>
+</div>
+</nav><nav class="sidebar visible" data-sidebar-id="default">
+<div class="close">
+<i class="material-icons md-18">close</i>
+<!--<svg><use href="assets/svg/icons.svg#close"></use></svg>-->
+</div>
 <div class="content">
-<a href="#" class="logo"><svg width="100" height="30"><use href="assets/svg/icons.svg#logo"></use></svg></a>
+<a href="#" class="logo">
+<svg width="100" height="30"><use href="../../../assets/svg/icon-set.svg?p=K3pa7jkW#logo"></use></svg>
+<p>App Name</p>
+<!--<svg width="100" height="30"><use href="assets/svg/icons.svg#logo"></use></svg>-->
+</a>
 <ul class="mainMenu margin-top-3">
 <li><a href="#">All Goods</a></li>
 <li><a href="#">UI Kits</a></li>
@@ -63,9 +75,21 @@
 <li><a href="#">Contact Us</a></li>
 </ul>
 <ul class="social opacity-8">
-<li><a href="#"><svg><use href="assets/svg/icons.svg#facebook"></use></svg></a></li>
-<li><a href="#"><svg><use href="assets/svg/icons.svg#twitter"></use></svg></a></li>
-<li><a href="#"><svg><use href="assets/svg/icons.svg#instagram"></use></svg></a></li>
+<li>
+<a href="#">
+<svg><use xlink:href="../../../assets/svg/icon-set.svg?p=K3pa7jkW#facebook"></use></svg>
+</a>
+</li>
+<li>
+<a href="#">
+<svg><use xlink:href="../../../assets/svg/icon-set.svg?p=K3pa7jkW#twitter"></use></svg>
+</a>
+</li>
+<li>
+<a href="#">
+<svg><use xlink:href="../../../assets/svg/icon-set.svg?p=K3pa7jkW#instagram"></use></svg>
+</a>
+</li>
 </ul>
 </div>
 </nav>

@@ -1,13 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4bd9bc0f-de2f-432d-873f-d041be41b162" name="Default Changelist" comment="" />
+    <list default="true" id="4bd9bc0f-de2f-432d-873f-d041be41b162" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/svg/svg2/check-bold.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/svg/svg2/icon-set.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/svg/svg2/play.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/svg/svg2/template/restaurant-clock.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/svg/svg2/template/restaurant-fire.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/svg/svg2/template/restaurant-logo-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/svg/svg2/template/restaurant-logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/svg/svg2/template/restaurant-pin.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/svg/svg2/template/restaurant-pizza.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/svg/svg2/video-icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pagina2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pagina2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prepros-6.config" beforeDir="false" afterPath="$PROJECT_DIR$/prepros-6.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/html/includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/includes/head.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/includes/footer2.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pug/includes/footer2.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/includes/head2.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pug/includes/head2.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/includes/navbar2.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pug/includes/navbar2.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/subpages/pagina2.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pug/pages/subpages/pagina2.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/scripts/console.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pug/scripts/console.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2IitveGwHXj7XTeSsQWpJ1lrqC9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -54,7 +79,7 @@
       <workItem from="1673099393942" duration="1586000" />
       <workItem from="1673101578668" duration="30452000" />
       <workItem from="1673447624232" duration="2051000" />
-      <workItem from="1673474909690" duration="53819000" />
+      <workItem from="1673474909690" duration="84638000" />
     </task>
     <servers />
   </component>

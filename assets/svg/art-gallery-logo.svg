@@ -1,0 +1,17 @@
+<svg width="52" height="30" viewBox="0 0 52 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="14.6369" height="14.6369" transform="matrix(-0.707114 -0.707099 -0.707114 0.707099 36.0005 15)" fill="#202020"/>
+<mask id="mask0_6866_72" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="-1" y="0" width="32" height="30">
+<rect x="-2.5" y="2.5" width="25.0006" height="25" rx="12.5" transform="matrix(-1 0 0 1 25.0005 0)" stroke="#FBFBFB" stroke-width="5"/>
+</mask>
+<g mask="url(#mask0_6866_72)">
+<rect x="-2.5" y="2.5" width="25.0006" height="25" rx="12.5" transform="matrix(-1 0 0 1 25.0005 0)" stroke="#202020" stroke-width="5"/>
+<rect width="21.0002" height="21.0002" transform="matrix(-0.707114 -0.707099 -0.707114 0.707099 47.999 15)" fill="#FBFBFB"/>
+</g>
+<mask id="mask1_6866_72" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="21" y="0" width="32" height="30">
+<rect width="30.0006" height="30" rx="15" transform="matrix(-1 0 0 1 52.0005 0)" fill="#FBFBFB"/>
+</mask>
+<g mask="url(#mask1_6866_72)">
+<rect width="30.0006" height="30" rx="15" transform="matrix(-1 0 0 1 52.0005 0)" fill="#F44336"/>
+<rect width="21.0002" height="21.0002" transform="matrix(-0.707114 -0.707099 -0.707114 0.707099 33.9998 15)" fill="#FBFBFB"/>
+</g>
+</svg>
