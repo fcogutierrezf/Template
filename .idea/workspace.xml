@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4bd9bc0f-de2f-432d-873f-d041be41b162" name="Default Changelist" comment="" />
+    <list default="true" id="4bd9bc0f-de2f-432d-873f-d041be41b162" name="Default Changelist" comment="edit pag2 animated">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pagina2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pagina2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/html/includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/includes/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/includes/footer.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pug/includes/footer.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/includes/head.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pug/includes/head.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/includes/head2.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pug/includes/head2.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/includes/navbar2.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pug/includes/navbar2.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/includes/sidebar2.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pug/includes/sidebar2.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/homepage.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pug/pages/homepage.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pug/pages/subpages/pagina2.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/pug/pages/subpages/pagina2.pug" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,11 +70,35 @@
       <workItem from="1673099393942" duration="1586000" />
       <workItem from="1673101578668" duration="30452000" />
       <workItem from="1673447624232" duration="2051000" />
-      <workItem from="1673474909690" duration="84989000" />
+      <workItem from="1673474909690" duration="90644000" />
     </task>
+    <task id="LOCAL-00001" summary="edit pag2">
+      <created>1674521649090</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674521649090</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="edit pag2" />
+    <MESSAGE value="edit pag2 animated" />
+    <option name="LAST_COMMIT_MESSAGE" value="edit pag2 animated" />
   </component>
 </project>
